@@ -146,5 +146,4 @@ if (contadorPuntosJug1 > contadorPuntosJug2) {
 
 console.log(`${jugadorUno.nombre}: ${contadorPuntosJug1} | ${jugadorDos.nombre}: ${contadorPuntosJug2}.
 La ganadora es: ${ganador}`);
-
 //-----------------------------------------------------------------------//
